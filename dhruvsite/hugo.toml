@@ -1,0 +1,4 @@
+baseURL = 'https://dhruv34.github.io/'
+languageCode = 'en-us'
+title = 'Dhruv Adha'
+theme = 'hugo-theme-diary'

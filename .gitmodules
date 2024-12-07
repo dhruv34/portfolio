@@ -1,0 +1,20 @@
+[submodule "dhruvsite/dhruv34.github.io"]
+	path = dhruvsite/dhruv34.github.io
+	url = https://github.com/dhruv34/dhruv34.github.io.git
+	branch = dhruv0
+[submodule "dhruvsite/public/public"]
+	path = dhruvsite/public/public
+	url = https://github.com/dhruv34/dhruv34.github.io.git
+	branch = dhruv0
+[submodule "public"]
+	path = public
+	url = https://github.com/dhruv34/dhruv34.github.io.git
+	branch = dhruv0
+[submodule "dhruvsite/dhruvsite/public"]
+	path = dhruvsite/dhruvsite/public
+	url = https://github.com/dhruv34/dhruv34.github.io.git
+	branch = dhruv0
+[submodule "dhruvsite/public"]
+	path = dhruvsite/public
+	url = https://github.com/dhruv34/dhruv34.github.io.git
+	branch = dhruv0
