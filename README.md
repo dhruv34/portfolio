@@ -7,3 +7,9 @@ Steps to make changes to the website:
 5. Git add, commit, and push to dhruv0 branch
 
 Once the static assets are pushed, the changes will auto-deploy in 1-2 minutes!
+
+Other important files:
+* hugo.toml - Defines structure of main site
+* layouts/index.html - Card layout of main page
+* layouts/_default/section.html - Card layout of other pages
+* en.yaml - Provides some default text from the Hugo template
